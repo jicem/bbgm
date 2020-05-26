@@ -1,0 +1,4666 @@
+﻿{
+  "version": 37,
+  "meta": {
+    "phaseText": "2020 preseason",
+    "name": "League 2"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 2,
+      "region": "Air",
+      "name": "Nomads",
+      "abbrev": "AIR",
+      "imgURL": "https://i.imgur.com/AH7xwzE.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 51.66,
+          "rank": 13
+        },
+        "scouting": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "coaching": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "health": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "facilities": {
+          "amount": 18780,
+          "rank": 13
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#5c4a99",
+        "#f0e81c",
+        "#211e1e"
+      ],
+      "pop": 5.3,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 0,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7885564637485298,
+          "pop": 5.3,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "money": 0,
+            "playoffs": 0,
+            "wins": 0
+          },
+          "cid": 0,
+          "did": 2,
+          "region": "Air",
+          "name": "Nomads",
+          "abbrev": "AIR",
+          "imgURL": "https://i.imgur.com/AH7xwzE.png",
+          "colors": [
+            "#5c4a99",
+            "#f0e81c",
+            "#211e1e"
+          ],
+          "rid": 0
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 0,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 0
+        }
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 2,
+      "region": "Cabbage Corp",
+      "name": "Crusaders",
+      "abbrev": "CAB",
+      "imgURL": "https://ih1.redbubble.net/image.13540248.5695/fc,800x800,white.u2.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 45.62,
+          "rank": 20
+        },
+        "scouting": {
+          "amount": 16600,
+          "rank": 20
+        },
+        "coaching": {
+          "amount": 16600,
+          "rank": 20
+        },
+        "health": {
+          "amount": 16600,
+          "rank": 20
+        },
+        "facilities": {
+          "amount": 16600,
+          "rank": 20
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#7a1319",
+        "#89bfd3",
+        "#07364f"
+      ],
+      "pop": 2.7,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 1,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.01110508559906076,
+          "pop": 2.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 2,
+          "region": "Cabbage Corp",
+          "name": "Crusaders",
+          "abbrev": "CAB",
+          "imgURL": "https://ih1.redbubble.net/image.13540248.5695/fc,800x800,white.u2.jpg",
+          "colors": [
+            "#7a1319",
+            "#89bfd3",
+            "#07364f"
+          ],
+          "rid": 1
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 1
+        }
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Ba Sing Se",
+      "name": "Gates",
+      "abbrev": "BSS",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 58.55,
+          "rank": 5
+        },
+        "scouting": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "coaching": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "health": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "facilities": {
+          "amount": 21260,
+          "rank": 5
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#0d435e",
+        "#f0494a",
+        "#cccccc"
+      ],
+      "pop": 7.3,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 2,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.17774022461836403,
+          "pop": 7.3,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 0,
+          "region": "Ba Sing Se",
+          "name": "Gates",
+          "abbrev": "BSS",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#0d435e",
+            "#f0494a",
+            "#cccccc"
+          ],
+          "rid": 2
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 2
+        }
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "region": "Wulong Forest",
+      "name": "Wolfbats",
+      "abbrev": "WUL",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 59.41,
+          "rank": 4
+        },
+        "scouting": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "coaching": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "health": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "facilities": {
+          "amount": 21570,
+          "rank": 4
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ef670a",
+        "#caeaf9",
+        "#d3d3d3"
+      ],
+      "pop": 9.1,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 3,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6255464281052674,
+          "pop": 9.1,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 1,
+          "region": "Wulong Forest",
+          "name": "Wolfbats",
+          "abbrev": "WUL",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#ef670a",
+            "#caeaf9",
+            "#d3d3d3"
+          ],
+          "rid": 3
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 3,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 3
+        }
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 1,
+      "region": "Chameleon Bay",
+      "name": "Catgators",
+      "abbrev": "CHA",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 37,
+          "rank": 30
+        },
+        "scouting": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "coaching": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "health": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "facilities": {
+          "amount": 13500,
+          "rank": 30
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#000000",
+        "#c11616",
+        "#2966ef"
+      ],
+      "pop": 1.6,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 4,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.38675536388857046,
+          "pop": 1.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 1,
+          "region": "Chameleon Bay",
+          "name": "Catgators",
+          "abbrev": "CHA",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#000000",
+            "#c11616",
+            "#2966ef"
+          ],
+          "rid": 4
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 4,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 4
+        }
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "region": "Chin Village",
+      "name": "Curses",
+      "abbrev": "CHI",
+      "imgURL": "/img/logos/CLE.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 38.72,
+          "rank": 28
+        },
+        "scouting": {
+          "amount": 14120,
+          "rank": 28
+        },
+        "coaching": {
+          "amount": 14120,
+          "rank": 28
+        },
+        "health": {
+          "amount": 14120,
+          "rank": 28
+        },
+        "facilities": {
+          "amount": 14120,
+          "rank": 28
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#211e1e",
+        "#f8e3cc",
+        "#3f1c59"
+      ],
+      "pop": 1.7,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 5,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4607466733814374,
+          "pop": 1.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 1,
+          "region": "Chin Village",
+          "name": "Curses",
+          "abbrev": "CHI",
+          "imgURL": "/img/logos/CLE.png",
+          "colors": [
+            "#211e1e",
+            "#f8e3cc",
+            "#3f1c59"
+          ],
+          "rid": 5
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 5,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 5
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 3,
+      "region": "Fire Fountain",
+      "name": "Smog",
+      "abbrev": "FFS",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 57.69,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 20950,
+          "rank": 6
+        },
+        "coaching": {
+          "amount": 20950,
+          "rank": 6
+        },
+        "health": {
+          "amount": 20950,
+          "rank": 6
+        },
+        "facilities": {
+          "amount": 20950,
+          "rank": 6
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#be2026",
+        "#2b2e81",
+        "#ffffff"
+      ],
+      "pop": 6.6,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 6,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.997238150900408,
+          "pop": 6.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 3,
+          "region": "Fire Fountain",
+          "name": "Smog",
+          "abbrev": "FFS",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#be2026",
+            "#2b2e81",
+            "#ffffff"
+          ],
+          "rid": 6
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 6
+        }
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 4,
+      "region": "Red Sands",
+      "name": "Rabaroos",
+      "abbrev": "RSR",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 44.76,
+          "rank": 21
+        },
+        "scouting": {
+          "amount": 16290,
+          "rank": 21
+        },
+        "coaching": {
+          "amount": 16290,
+          "rank": 21
+        },
+        "health": {
+          "amount": 16290,
+          "rank": 21
+        },
+        "facilities": {
+          "amount": 16290,
+          "rank": 21
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#216935",
+        "#163a1c",
+        "#a1d297"
+      ],
+      "pop": 2.7,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 7,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.2910593455691389,
+          "pop": 2.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 4,
+          "region": "Red Sands",
+          "name": "Rabaroos",
+          "abbrev": "RSR",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#216935",
+            "#163a1c",
+            "#a1d297"
+          ],
+          "rid": 7
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 7
+        }
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 1,
+      "region": "Gaipan",
+      "name": "Flood",
+      "abbrev": "GAI",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.07,
+          "rank": 16
+        },
+        "scouting": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "coaching": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "health": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "facilities": {
+          "amount": 17840,
+          "rank": 16
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#3a5eab",
+        "#708fc7",
+        "#0a1130"
+      ],
+      "pop": 4,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 8,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.35654251712556984,
+          "pop": 4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 1,
+          "region": "Gaipan",
+          "name": "Flood",
+          "abbrev": "GAI",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#3a5eab",
+            "#708fc7",
+            "#0a1130"
+          ],
+          "rid": 8
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 8,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 8
+        }
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 3,
+      "region": "Ember Island",
+      "name": "Players",
+      "abbrev": "EMB",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55.1,
+          "rank": 9
+        },
+        "scouting": {
+          "amount": 20020,
+          "rank": 9
+        },
+        "coaching": {
+          "amount": 20020,
+          "rank": 9
+        },
+        "health": {
+          "amount": 20020,
+          "rank": 9
+        },
+        "facilities": {
+          "amount": 20020,
+          "rank": 9
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#4c91c2",
+        "#c4c4c3",
+        "#ffffff"
+      ],
+      "pop": 6.2,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 9,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8209387027148295,
+          "pop": 6.2,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 3,
+          "region": "Ember Island",
+          "name": "Players",
+          "abbrev": "EMB",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#4c91c2",
+            "#c4c4c3",
+            "#ffffff"
+          ],
+          "rid": 9
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 9
+        }
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 5,
+      "region": "Future Industries",
+      "name": "Fire Ferrets",
+      "abbrev": "FUT",
+      "imgURL": "https://res.cloudinary.com/teepublic/image/private/s--3Gnfv_S5--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_42332c,e_outline:48/co_42332c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1446187880/production/designs/125722_0.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 41.31,
+          "rank": 25
+        },
+        "scouting": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "coaching": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "health": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "facilities": {
+          "amount": 15050,
+          "rank": 25
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#1c73bb",
+        "#ffd600",
+        "#0c5983"
+      ],
+      "pop": 2.1,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 10,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6814200751033992,
+          "pop": 2.1,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 5,
+          "region": "Future Industries",
+          "name": "Fire Ferrets",
+          "abbrev": "FUT",
+          "imgURL": "https://res.cloudinary.com/teepublic/image/private/s--3Gnfv_S5--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_42332c,e_outline:48/co_42332c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1446187880/production/designs/125722_0.jpg",
+          "colors": [
+            "#1c73bb",
+            "#ffd600",
+            "#0c5983"
+          ],
+          "rid": 10
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 10
+        }
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 4,
+      "region": "Agna Qel'a",
+      "name": "Ice",
+      "abbrev": "AQI",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Water_Tribe_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 60.28,
+          "rank": 3
+        },
+        "scouting": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "coaching": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "health": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "facilities": {
+          "amount": 21880,
+          "rank": 3
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#6b6b6b",
+        "#f15d24",
+        "#dedddd"
+      ],
+      "pop": 15.6,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 11,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9016609718070904,
+          "pop": 15.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 4,
+          "region": "Agna Qel'a",
+          "name": "Ice",
+          "abbrev": "AQI",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Water_Tribe_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#6b6b6b",
+            "#f15d24",
+            "#dedddd"
+          ],
+          "rid": 11
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 11,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 11
+        }
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 3,
+      "region": "Capital City",
+      "name": "Dragons",
+      "abbrev": "CCD",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 61.14,
+          "rank": 2
+        },
+        "scouting": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "coaching": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "health": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "facilities": {
+          "amount": 22190,
+          "rank": 2
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#1a9190",
+        "#510f0f",
+        "#eb5924"
+      ],
+      "pop": 20.5,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 12,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.24737851009769474,
+          "pop": 20.5,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 3,
+          "region": "Capital City",
+          "name": "Dragons",
+          "abbrev": "CCD",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#1a9190",
+            "#510f0f",
+            "#eb5924"
+          ],
+          "rid": 12
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 12
+        }
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 2,
+      "region": "Makapu Village",
+      "name": "Chiefs",
+      "abbrev": "MAK",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/03/kansas_city_chiefs_1988-pres_w.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 53.38,
+          "rank": 11
+        },
+        "scouting": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "coaching": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "health": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "facilities": {
+          "amount": 19400,
+          "rank": 11
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#d8519d",
+        "#4ac1c0",
+        "#f15949"
+      ],
+      "pop": 6.1,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 13,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9070833665273988,
+          "pop": 6.1,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 2,
+          "region": "Makapu Village",
+          "name": "Chiefs",
+          "abbrev": "MAK",
+          "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/03/kansas_city_chiefs_1988-pres_w.png",
+          "colors": [
+            "#d8519d",
+            "#4ac1c0",
+            "#f15949"
+          ],
+          "rid": 13
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 13,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 13
+        }
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 1,
+      "did": 4,
+      "region": "Boiling Rock",
+      "name": "Prisoners",
+      "abbrev": "BRP",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 46.48,
+          "rank": 19
+        },
+        "scouting": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "coaching": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "health": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "facilities": {
+          "amount": 16910,
+          "rank": 19
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#3d2971",
+        "#8accdc",
+        "#ed9a22"
+      ],
+      "pop": 2.8,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 14,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.0022458253382723337,
+          "pop": 2.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 4,
+          "region": "Boiling Rock",
+          "name": "Prisoners",
+          "abbrev": "BRP",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#3d2971",
+            "#8accdc",
+            "#ed9a22"
+          ],
+          "rid": 14
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 14,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 14
+        }
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 0,
+      "region": "Kyoshi",
+      "name": "Warriors",
+      "abbrev": "KYO",
+      "imgURL": "https://i.pinimg.com/originals/d3/8b/88/d38b88252178eb7d662a322b0f666784.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 47.34,
+          "rank": 18
+        },
+        "scouting": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "coaching": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "health": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "facilities": {
+          "amount": 17220,
+          "rank": 18
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#eac494",
+        "#ed1d3d",
+        "#f2b316"
+      ],
+      "pop": 3.5,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 15,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.3136476079503763,
+          "pop": 3.5,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 0,
+          "region": "Kyoshi",
+          "name": "Warriors",
+          "abbrev": "KYO",
+          "imgURL": "https://i.pinimg.com/originals/d3/8b/88/d38b88252178eb7d662a322b0f666784.png",
+          "colors": [
+            "#eac494",
+            "#ed1d3d",
+            "#f2b316"
+          ],
+          "rid": 15
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 15
+        }
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "region": "Omashu",
+      "name": "Badgermoles",
+      "abbrev": "OMA",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#1e73ba",
+        "#ff8500",
+        "#ffffff"
+      ],
+      "pop": 21.5,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 16,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.08424309891476489,
+          "pop": 21.5,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 0,
+          "region": "Omashu",
+          "name": "Badgermoles",
+          "abbrev": "OMA",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#1e73ba",
+            "#ff8500",
+            "#ffffff"
+          ],
+          "rid": 16
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 16
+        }
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 0,
+      "region": "Gaoling",
+      "name": "Rumble",
+      "abbrev": "GAO",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+      "budget": {
+        "ticketPrice": {
+          "amount": 52.52,
+          "rank": 12
+        },
+        "scouting": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "coaching": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "health": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "facilities": {
+          "amount": 19090,
+          "rank": 12
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#bee6f6",
+        "#ffe67b",
+        "#3a3a3a"
+      ],
+      "pop": 5.5,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 17,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.49238471687383767,
+          "pop": 5.5,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 0,
+          "region": "Gaoling",
+          "name": "Rumble",
+          "abbrev": "GAO",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png/revision/latest?cb=20090125144136",
+          "colors": [
+            "#bee6f6",
+            "#ffe67b",
+            "#3a3a3a"
+          ],
+          "rid": 17
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 17
+        }
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 1,
+      "did": 3,
+      "region": "Shu Jing",
+      "name": "Swords",
+      "abbrev": "SJS",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.93,
+          "rank": 15
+        },
+        "scouting": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "coaching": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "health": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "facilities": {
+          "amount": 18160,
+          "rank": 15
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#d17d2a",
+        "#231f20",
+        "#c09867"
+      ],
+      "pop": 4.3,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 18,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.06629547782853418,
+          "pop": 4.3,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 3,
+          "region": "Shu Jing",
+          "name": "Swords",
+          "abbrev": "SJS",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#d17d2a",
+            "#231f20",
+            "#c09867"
+          ],
+          "rid": 18
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 18,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 18
+        }
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 2,
+      "region": "Republic City",
+      "name": "Harmony",
+      "abbrev": "RCH",
+      "imgURL": "https://m.media-amazon.com/images/I/A1jVsS31HKL._SS500_.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 37.86,
+          "rank": 29
+        },
+        "scouting": {
+          "amount": 13810,
+          "rank": 29
+        },
+        "coaching": {
+          "amount": 13810,
+          "rank": 29
+        },
+        "health": {
+          "amount": 13810,
+          "rank": 29
+        },
+        "facilities": {
+          "amount": 13810,
+          "rank": 29
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#fbee28",
+        "#231f20",
+        "#ffffff"
+      ],
+      "pop": 1.7,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 19,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9438007174072759,
+          "pop": 1.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 0,
+          "did": 2,
+          "region": "Republic City",
+          "name": "Harmony",
+          "abbrev": "RCH",
+          "imgURL": "https://m.media-amazon.com/images/I/A1jVsS31HKL._SS500_.jpg",
+          "colors": [
+            "#fbee28",
+            "#231f20",
+            "#ffffff"
+          ],
+          "rid": 19
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 19
+        }
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 4,
+      "region": "Hing Wa Island",
+      "name": "Ash Bananas",
+      "abbrev": "HWI",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/e/e4/Ash_banana.png/revision/latest?cb=20130806083340",
+      "budget": {
+        "ticketPrice": {
+          "amount": 40.45,
+          "rank": 26
+        },
+        "scouting": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "coaching": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "health": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "facilities": {
+          "amount": 14740,
+          "rank": 26
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#e41d34",
+        "#1e1e1e",
+        "#e7a9cc"
+      ],
+      "pop": 2,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 20,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9667649749275267,
+          "pop": 2,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 4,
+          "region": "Hing Wa Island",
+          "name": "Ash Bananas",
+          "abbrev": "HWI",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/e/e4/Ash_banana.png/revision/latest?cb=20130806083340",
+          "colors": [
+            "#e41d34",
+            "#1e1e1e",
+            "#e7a9cc"
+          ],
+          "rid": 20
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 20,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 20
+        }
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 5,
+      "region": "Laogai",
+      "name": "Lion Vultures",
+      "abbrev": "LAO",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61N5AjTm1zL._AC_SX522_.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 39.59,
+          "rank": 27
+        },
+        "scouting": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "coaching": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "health": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "facilities": {
+          "amount": 14430,
+          "rank": 27
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#e4c649",
+        "#735823",
+        "#f8e19f"
+      ],
+      "pop": 1.8,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 21,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7644381846264687,
+          "pop": 1.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 5,
+          "region": "Laogai",
+          "name": "Lion Vultures",
+          "abbrev": "LAO",
+          "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61N5AjTm1zL._AC_SX522_.jpg",
+          "colors": [
+            "#e4c649",
+            "#735823",
+            "#f8e19f"
+          ],
+          "rid": 21
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 21
+        }
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 5,
+      "region": "South Pole",
+      "name": "Spirits",
+      "abbrev": "SPS",
+      "imgURL": "/img/logos/STL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 50.79,
+          "rank": 14
+        },
+        "scouting": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "coaching": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "health": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "facilities": {
+          "amount": 18470,
+          "rank": 14
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#231f20",
+        "#ffffff",
+        "#b2b3b3"
+      ],
+      "pop": 4.7,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 22,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9545558354030982,
+          "pop": 4.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 5,
+          "region": "South Pole",
+          "name": "Spirits",
+          "abbrev": "SPS",
+          "imgURL": "/img/logos/STL.png",
+          "colors": [
+            "#231f20",
+            "#ffffff",
+            "#b2b3b3"
+          ],
+          "rid": 22
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 22,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 22
+        }
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 1,
+      "did": 5,
+      "region": "Harbor City",
+      "name": "Shipwrecks",
+      "abbrev": "HAR",
+      "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Water_Tribe_emblem.png/revision/latest?cb=20090125144137",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55.97,
+          "rank": 8
+        },
+        "scouting": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "coaching": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "health": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "facilities": {
+          "amount": 20330,
+          "rank": 8
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#0e442e",
+        "#d75f27",
+        "#e7d3ae"
+      ],
+      "pop": 6.5,
+      "stadiumCapacity": 25000,
+      "seasons": [
+        {
+          "tid": 23,
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9666827149458843,
+          "pop": 6.5,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "cid": 1,
+          "did": 5,
+          "region": "Harbor City",
+          "name": "Shipwrecks",
+          "abbrev": "HAR",
+          "imgURL": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Water_Tribe_emblem.png/revision/latest?cb=20090125144137",
+          "colors": [
+            "#0e442e",
+            "#d75f27",
+            "#e7d3ae"
+          ],
+          "rid": 23
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 23,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 23
+        }
+      ]
+    }
+  ],
+  "startingSeason": 2020
+}
