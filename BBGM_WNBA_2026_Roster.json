@@ -450,19 +450,19 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -475,7 +475,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 154,
@@ -1403,7 +1403,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -1417,7 +1417,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 145,
@@ -1886,7 +1886,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -1900,7 +1900,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 210,
@@ -2278,7 +2278,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 204,
@@ -2625,7 +2625,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -3018,13 +3018,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 175,
@@ -3400,7 +3400,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 190,
@@ -4175,7 +4175,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -4188,7 +4188,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 137,
@@ -4583,7 +4583,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 182,
@@ -5205,7 +5205,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 173,
@@ -5853,13 +5853,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 169,
@@ -6672,7 +6672,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 190,
@@ -7213,7 +7213,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 212,
@@ -7672,13 +7672,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 143,
@@ -7969,7 +7969,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -8439,7 +8439,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 165,
@@ -8813,13 +8813,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 231,
@@ -9253,7 +9253,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 190,
@@ -11186,13 +11186,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 172,
@@ -12292,13 +12292,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 167,
@@ -12745,19 +12745,19 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 167,
@@ -13154,7 +13154,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -13167,7 +13167,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 160,
@@ -13705,7 +13705,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -13719,7 +13719,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -14110,7 +14110,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 150,
@@ -14766,7 +14766,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 191,
@@ -15088,7 +15088,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -15376,7 +15376,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 231,
@@ -16422,7 +16422,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -17346,7 +17346,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -17359,7 +17359,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 143,
@@ -18218,13 +18218,13 @@
           "season": 2024,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -18238,7 +18238,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 175,
@@ -18565,7 +18565,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -18578,7 +18578,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 156,
@@ -19227,7 +19227,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 167,
@@ -22476,7 +22476,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -22740,7 +22740,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -23086,7 +23086,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -23099,7 +23099,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -23379,7 +23379,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -23392,7 +23392,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -24085,7 +24085,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -24480,13 +24480,13 @@
           "season": 2024,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -26006,7 +26006,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -26410,7 +26410,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -27096,13 +27096,13 @@
           "season": 2024,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -29297,7 +29297,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 122,
@@ -29808,7 +29808,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -29821,7 +29821,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 215,
@@ -30427,13 +30427,13 @@
           "season": 2024,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -30447,7 +30447,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 237,
@@ -30717,7 +30717,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -30730,7 +30730,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 136,
@@ -31113,19 +31113,19 @@
           "season": 2024,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -31397,7 +31397,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2024,
@@ -31798,7 +31798,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -32179,13 +32179,13 @@
           "season": 2024,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -32501,7 +32501,7 @@
           "season": 2024,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 134,
@@ -34432,7 +34432,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -34445,7 +34445,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 193,
@@ -34914,13 +34914,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 187,
@@ -35725,7 +35725,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 182,
@@ -36122,7 +36122,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 185,
@@ -36841,7 +36841,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 178,
@@ -37178,7 +37178,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -37942,7 +37942,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 145,
@@ -38337,7 +38337,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -38351,7 +38351,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -38879,7 +38879,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -38900,7 +38900,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 145,
@@ -39362,7 +39362,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 200,
@@ -39688,7 +39688,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 183,
@@ -40193,7 +40193,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 165,
@@ -40559,13 +40559,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 175,
@@ -41778,7 +41778,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -41791,7 +41791,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 165,
@@ -43574,13 +43574,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -43593,7 +43593,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -44029,7 +44029,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 163,
@@ -44831,7 +44831,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 160,
@@ -45292,13 +45292,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 185,
@@ -45819,7 +45819,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -45832,7 +45832,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 143,
@@ -47010,7 +47010,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 160,
@@ -48172,7 +48172,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -48185,7 +48185,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 168,
@@ -48975,7 +48975,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -49320,7 +49320,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -49341,7 +49341,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 162,
@@ -50019,7 +50019,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -50477,7 +50477,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 141,
@@ -50913,7 +50913,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 165,
@@ -51271,7 +51271,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 168,
@@ -51643,7 +51643,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 175,
@@ -52369,7 +52369,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 187,
@@ -52759,13 +52759,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 168,
@@ -53127,7 +53127,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 191,
@@ -53477,13 +53477,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 179,
@@ -53878,7 +53878,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -53891,7 +53891,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 135,
@@ -54413,13 +54413,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -55165,7 +55165,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -55178,7 +55178,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -55922,13 +55922,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 205,
@@ -56403,7 +56403,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -56861,7 +56861,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 140,
@@ -57242,7 +57242,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 162,
@@ -57909,13 +57909,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 160,
@@ -59223,7 +59223,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 148,
@@ -59744,7 +59744,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -60278,7 +60278,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -61438,7 +61438,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 174,
@@ -61820,7 +61820,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 210,
@@ -62223,7 +62223,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 145,
@@ -63039,7 +63039,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 153,
@@ -63546,7 +63546,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 233,
@@ -65087,7 +65087,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 173,
@@ -66320,7 +66320,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 190,
@@ -67576,7 +67576,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 151,
@@ -67852,7 +67852,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 156,
@@ -68170,13 +68170,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 159,
@@ -68497,13 +68497,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 150,
@@ -68990,7 +68990,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 161,
@@ -69316,7 +69316,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 159,
@@ -69924,7 +69924,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -69937,7 +69937,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 154,
@@ -70209,13 +70209,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 151,
@@ -70493,7 +70493,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 150,
@@ -71079,7 +71079,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -71390,13 +71390,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -71409,7 +71409,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 163,
@@ -71970,7 +71970,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 156,
@@ -72249,7 +72249,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 179,
@@ -72511,7 +72511,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 138,
@@ -73053,7 +73053,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 146,
@@ -73373,7 +73373,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -73387,7 +73387,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 164,
@@ -73704,7 +73704,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 143,
@@ -73966,7 +73966,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -74465,7 +74465,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 244,
@@ -75641,7 +75641,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -95139,13 +95139,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 159,
@@ -95380,7 +95380,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 148,
@@ -95611,7 +95611,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 178,
@@ -95873,7 +95873,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -96073,7 +96073,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 181,
@@ -96278,7 +96278,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -96471,7 +96471,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -96664,7 +96664,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 153,
@@ -96852,13 +96852,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 15,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 148,
@@ -97227,7 +97227,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 5,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -97550,19 +97550,19 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -97792,13 +97792,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 186,
@@ -97974,7 +97974,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 176,
@@ -98228,7 +98228,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 134,
@@ -98464,7 +98464,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 153,
@@ -98695,13 +98695,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 156,
@@ -98932,13 +98932,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -99176,7 +99176,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -99190,7 +99190,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 156,
@@ -99420,7 +99420,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 149,
@@ -99604,7 +99604,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
@@ -99829,13 +99829,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 182,
@@ -100072,7 +100072,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 191,
@@ -100248,7 +100248,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 4,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 214,
@@ -100442,7 +100442,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 166,
@@ -100689,13 +100689,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 185,
@@ -100988,7 +100988,7 @@
           "season": 2025,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2025,
@@ -101002,7 +101002,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 189,
@@ -101247,13 +101247,13 @@
           "season": 2025,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         },
         {
           "season": 2026,
           "phase": 0,
           "tid": 12,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -113556,7 +113556,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 183,
@@ -113650,7 +113650,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 0,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 159,
@@ -113745,7 +113745,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 1,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 171,
@@ -113839,7 +113839,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 204,
@@ -113933,7 +113933,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 3,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -114027,7 +114027,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 161,
@@ -114122,7 +114122,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 146,
@@ -114217,7 +114217,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 148,
@@ -114311,7 +114311,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 13,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 192,
@@ -114406,7 +114406,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 147,
@@ -114501,7 +114501,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 6,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 169,
@@ -114596,7 +114596,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -114690,7 +114690,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 180,
@@ -114785,7 +114785,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 7,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 219,
@@ -114880,7 +114880,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 155,
@@ -114974,7 +114974,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 152,
@@ -115069,7 +115069,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 179,
@@ -115166,7 +115166,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 203,
@@ -115260,7 +115260,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 8,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 179,
@@ -115354,7 +115354,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 151,
@@ -115449,7 +115449,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 157,
@@ -115543,7 +115543,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 152,
@@ -115637,7 +115637,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 158,
@@ -115733,7 +115733,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 170,
@@ -115827,7 +115827,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 9,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 209,
@@ -115923,7 +115923,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 2,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 149,
@@ -116017,7 +116017,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 10,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 190,
@@ -116112,7 +116112,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 166,
@@ -116207,7 +116207,7 @@
           "season": 2026,
           "phase": 0,
           "tid": 11,
-          "type": "godMode"
+          "type": "freeAgent"
         }
       ],
       "weight": 164,
@@ -117265,7 +117265,7 @@
       }
     ],
     "draftAges": [
-      20,
+      18,
       23
     ],
     "draftLotteryCustomChances": [
@@ -117313,8 +117313,8 @@
     "gameOver": false,
     "gender": "female",
     "giveMeWorstRoster": false,
-    "godMode": true,
-    "godModeInPast": true,
+    "freeAgent": false,
+    "freeAgentInPast": true,
     "gracePeriodEnd": 2028,
     "groupScheduleSeries": false,
     "heightFactor": 1,
